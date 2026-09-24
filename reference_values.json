@@ -1,0 +1,39 @@
+{
+  "purpose": "Expected exact values; not a SageMath execution record.",
+  "provenance": "Computed by the previous Python implementation and checked against the manuscript.",
+  "flag_certificate": {
+    "all_labelled_graphs": 1024,
+    "triangle_free_labelled_graphs": 388,
+    "isomorphism_classes": 14,
+    "orders_per_graph": 120,
+    "table_checks_passed": 388,
+    "weighted_identity_checks_passed": 388,
+    "finite_error_constant": "175/8"
+  },
+  "spectral_certificate": {
+    "coefficient_order": "ascending powers of u",
+    "cubic": [
+      "-189764295",
+      "318800906",
+      "-166092275",
+      "27590000"
+    ],
+    "clear_denominators_multiplier": 205821875,
+    "clear_denominators_residual": [
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "square_decomposition_residual": [
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "admissible_endpoint": "9409/7921",
+    "interval_gap": "45/126736",
+    "radicand_gap": "1/625",
+    "positive_remainder": "758113405787/15435200"
+  }
+}
